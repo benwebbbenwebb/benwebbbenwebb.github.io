@@ -12,3 +12,7 @@ Hello world!
 This is a post I have created.
 
 I hope it loads...
+
+Small change
+
+Lorem ipsum.
